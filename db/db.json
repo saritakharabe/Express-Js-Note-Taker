@@ -8,27 +8,23 @@
 		"text": "schedules"
 	},
 	{
-		"title": "Eggs",
-		"text": "yummy"
-	},
-	{
 		"title": "Pizza",
-		"text": "love"
-	},
-	{
-		"title": "Maggiee",
-		"text": "yum"
-	},
-	{
-		"title": "Noodles",
 		"text": "yummy"
 	},
 	{
-		"title": "burger",
-		"text": "spice"
+		"title": "Module-11",
+		"text": "Express js"
 	},
 	{
-		"title": "Project assignment ",
-		"text": "for post"
+		"title": "Module-10",
+		"text": "OOPS"
+	},
+	{
+		"title": "OOP logo",
+		"text": "SVG"
+	},
+	{
+		"title": "Mysql",
+		"text": "sql"
 	}
 ]
